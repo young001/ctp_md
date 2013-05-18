@@ -1,0 +1,16 @@
+2013-05-18 17:53:16,011 [0xb6f9d740] INFO  MdSpi_test - starting MdSpi_test
+2013-05-18 17:53:16,011 [0xb6f9d740] INFO  MdSpi_test - Register Spi
+2013-05-18 17:53:16,012 [0xb6f9d740] INFO  MdSpi_test - Register Front
+2013-05-18 17:53:16,012 [0xb6f9d740] INFO  MdSpi_test - Init
+2013-05-18 17:53:16,622 [0xb6f9bb40] INFO  MdSpi - connected to front
+2013-05-18 17:53:16,622 [0xb6f9bb40] INFO  MdSpi - login...
+2013-05-18 17:53:16,622 [0xb6f9bb40] INFO  MdSpi - login successfully
+2013-05-18 18:00:35,612 [0xb6f9bb40] INFO  MdSpi - connected to front
+2013-05-18 18:00:35,612 [0xb6f9bb40] INFO  MdSpi - login...
+2013-05-18 18:00:35,612 [0xb6f9bb40] INFO  MdSpi - login successfully
+2013-05-18 18:15:37,293 [0xb6f9bb40] INFO  MdSpi - connected to front
+2013-05-18 18:15:37,293 [0xb6f9bb40] INFO  MdSpi - login...
+2013-05-18 18:15:37,293 [0xb6f9bb40] INFO  MdSpi - login successfully
+2013-05-18 18:35:29,469 [0xb6f9bb40] INFO  MdSpi - connected to front
+2013-05-18 18:35:29,469 [0xb6f9bb40] INFO  MdSpi - login...
+2013-05-18 18:35:29,469 [0xb6f9bb40] INFO  MdSpi - login successfully
